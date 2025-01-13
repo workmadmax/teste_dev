@@ -6,7 +6,7 @@
 /*   By: mdouglas <mdouglas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/13 19:11:41 by mdouglas          #+#    #+#             */
-/*   Updated: 2025/01/13 19:51:42 by mdouglas         ###   ########.fr       */
+/*   Updated: 2025/01/13 19:57:08 by mdouglas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@
 */
 
 // em C ia ser pegado eu ia ter que fazer o parse do json sem usar libs manual daria porem optei por não!
-// aqui usaremos JS com node para rodar facilmente o código
+// aqui usaremos JS com node para rodar facilmente o código.
 
 // require do fs para leitura de arquivos
 
