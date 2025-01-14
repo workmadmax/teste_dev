@@ -6,7 +6,7 @@
 /*   By: mdouglas <mdouglas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/13 18:13:37 by mdouglas          #+#    #+#             */
-/*   Updated: 2025/01/13 19:08:12 by mdouglas         ###   ########.fr       */
+/*   Updated: 2025/01/13 21:24:12 by mdouglas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -69,7 +69,7 @@ int main () {
 
     printf("insert value: ");
     scanf("%d", &num);
-
+    
     if (ft_isfibonacci( num )) {
         printf("Number %d pertence a sequencia.\n", num);
     } else {
